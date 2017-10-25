@@ -22,7 +22,7 @@ class A {
 	}
 }
 
-public class xxxxx {
+public class testHashMap {
 
 	public static void main(String[] args) {
 		Map<A, Object> map = new HashMap<A, Object>();
